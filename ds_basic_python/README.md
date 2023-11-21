@@ -4,7 +4,8 @@
 
 
 ## Check list
-[x] Tabular Data 
+1. [x] Tabular Data 
+2. [ ] Inferential Statical Analysis with Python
 
 [] Gridded Data 
 
