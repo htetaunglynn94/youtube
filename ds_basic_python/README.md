@@ -4,13 +4,10 @@
 
 
 ## Check list
-1. [x] Tabular Data 
-2. [ ] Inferential Statical Analysis with Python
-
-[] Gridded Data 
+1. [x] Tabular Data &rarr [click here](https://www.youtube.com/watch?v=rku5rZxS0AA&list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV&index=1)
+2. [ ] Gridded Data &rarr [click here](https://www.youtube.com/watch?v=uCRkFwQqdJo&list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV&index=2)
 
 
 
-[click here](https://www.youtube.com/watch?v=rku5rZxS0AA&list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV&index=1)
 
-[click here](https://www.youtube.com/watch?v=uCRkFwQqdJo&list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV&index=2)
+
